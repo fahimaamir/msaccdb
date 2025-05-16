@@ -312,8 +312,6 @@ pythonnet==3.0.5
 pytz==2024.2
 PyWavelets==1.8.0
 pywebview==5.4
-pywin32-ctypes==0.2.3
-pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
 qtstylish==0.1.5
