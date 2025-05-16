@@ -357,7 +357,6 @@ sortedcontainers==2.4.0
 soupsieve==2.6
 sql_metadata==2.15.0
 SQLAlchemy==2.0.36
-sqlalchemy-access==2.0.3
 sqlglot==25.29.0
 sqlparse==0.5.2
 squarify==0.4.4
